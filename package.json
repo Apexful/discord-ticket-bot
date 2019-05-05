@@ -1,0 +1,23 @@
+{
+  "name": "ticket-bot",
+  "version": "1.0.0",
+  "description": "Discord Ticketing Bot",
+  "main": "apex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apexful/ticket-bot.git"
+  },
+  "author": "Apex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Apexful/ticket-bot/issues"
+  },
+  "homepage": "https://github.com/Apexful/ticket-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ms": "^2.1.1"
+  }
+}
